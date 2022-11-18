@@ -9,7 +9,7 @@
 
 Откройте проект через Visual Studio. Для этого Вам необходимо <b>зайти в Visual Studio</b>, затем <b>подключиться к GitHub</b> и <b>вставить ссылку</b> этого проекта: https://github.com/KonstantinovAnton/KonstantinovAnton
 
-[![video](https://i.ytimg.com/an_webp/SqarOBqIlpU/mqdefault_6s.webp?du=3000&sqp=CPeX2JsG&rs=AOn4CLBwXtu-Kik0MVE_3tsPIrqbrdLZOQ)](https://www.youtube.com/watch?v=SqarOBqIlpU)
+[![video](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://www.youtube.com/watch?v=SqarOBqIlpU)
 
 Или скачайте <b>zip-архив</b>. Для этого:
 1. Откройте проект на github: https://github.com/KonstantinovAnton/KonstantinovAnton
